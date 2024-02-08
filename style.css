@@ -1,0 +1,67 @@
+.pic{
+    margin-top:30px;
+    width: 100%;
+    height: 90%;
+    
+}
+.pic2{
+    margin-top: 40px;
+   width:40%;
+   height:30%;
+}
+.pic3{
+   width:30%;
+   height:30%;
+}
+.card{
+   width:95%;
+    height: 100%;
+
+}
+.rrr{
+    width: 100%;
+    height: 100%;
+    overflow:scroll;
+}
+
+.card img{
+    width: 70%;
+    height: 70%;
+    margin-left: 65px;
+    object-fit: cover;
+}
+.card-body{
+    background-color:beige;
+}
+.Mark{
+    background-color:beige;
+width:100%;
+height: 20%;
+margin-top: 18%;
+padding: 20%;
+
+}
+
+.Mark2{
+    margin-top: 20%;
+    background-color:beige;
+    width:100%;
+    height:30%;
+    padding: 5%;
+}
+.dam{
+margin-top:100px;
+margin-bottom:40px;
+letter-spacing: 2px;
+}
+.dum{
+    font-family: Brush Script MT, Brush Script Std, cursive	;
+    font-size:60px;
+    color:brown;
+    
+}
+
+.ddf{
+    background-color:beige;
+  
+}
