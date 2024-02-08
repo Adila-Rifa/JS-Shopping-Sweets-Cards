@@ -8,18 +8,13 @@ function buttons(misti1,mistirname) {
         var li =document.createElement('li');
         li.innerText=Misti;
 
-        ght.appendChild(li);
-        
-        var fgh=document.getElementById('Dekhabe').childElementCount;
-        
-        
-        
+        ght.appendChild(li); 
     
     })
 }
 buttons('Buttonone','Chamchom');
 buttons('Button2','text2');
-buttons('Button3','text4');
+buttons('Button3','text3');
 buttons('Button4','text4');
 buttons('Button5','text5');
 buttons('Button6','text6');

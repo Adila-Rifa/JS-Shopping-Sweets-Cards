@@ -1,10 +1,13 @@
 document.getElementById("Calculate").addEventListener('click',function(){
     var sweets=document.getElementById("Select-sweets").value;
     var convertsweers=parseFloat(sweets);
-    var Hisab=convertsweers*3;
-    // console.log(Hisab);
-    var Taka = document.getElementById("teka");
-    Taka.innerText=Hisab;
+
+    var uuu=document.getElementById('Dekhabe').childElementCount;
+    var Conuuu=parseFloat(uuu);
+    var Hisab=convertsweers*Conuuu;
+    //  console.log(Hisab);
+     var Taka = document.getElementById("teka");
+     Taka.innerText=Hisab;
     
 
 })
